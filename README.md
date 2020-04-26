@@ -1,3 +1,5 @@
+Fork of https://github.com/wreiner/officeweather
+
 # what & why?
 
 Indoor measuring of Co2 and Temperature
